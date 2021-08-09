@@ -14,10 +14,14 @@ $ pkg install python2
 
 $ kgpkg install git
 
-$ git cline
+$ git cline https://github.com/Shiddik295/fb_report_-NHBD.git
 
 $ ls
 
-$ cd
+$ cd fb_report_-NHBD
 # Run
-$ python2
+$ python2 'FACEBOOK REPORT.py'
+
+
+# enjoy the tool
+#Allowes tnx Allah
