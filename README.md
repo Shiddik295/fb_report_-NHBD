@@ -4,13 +4,20 @@
 
 # Installation 
 
-$apt update
-$apt upgrade
-$pkg install python
-$pkg install python2
-$pkg install git
-$git cline
-$ls
-$cd
+$ apt update
+
+$bapt upgrade
+
+$ pkg install python
+
+$ pkg install python2
+
+$ kgpkg install git
+
+$ git cline
+
+$ ls
+
+$ cd
 # Run
-$python2
+$ python2
